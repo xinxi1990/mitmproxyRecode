@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: fake
+Version: 0.8
+Summary: Make Python's Fabric act like Ruby's Capistrano
+Home-page: http://github.com/bmuller/fake
+Author: Brian Muller
+Author-email: bamuller@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: fabric
